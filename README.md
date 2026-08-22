@@ -1,10 +1,10 @@
-# Java Control Flow - Category C Problems
+## Date: 22-08-2026
 
-Solutions for Bridgelabz / CodInClub Category C practice problems focusing on loops, control flow, and algorithms[cite: 1].
+**Today's Work:**
+Completed Java Control Flow Category C problems covering Prime Number, Pattern Printing, Palindrome, GCD, and Armstrong Number algorithms[cite: 1].
 
-## Included Problems
-1. **Prime Number Checker** (`PrimeCheck.java`)[cite: 1]
-2. **Right-Angled Triangle Pattern** (`RightAnglePattern.java`)[cite: 1]
-3. **Palindrome Checker** (`PalindromeCheck.java`)[cite: 1]
-4. **GCD Calculator** (`GCDCalculator.java`)[cite: 1]
-5. **Armstrong Number Checker** (`ArmstrongCheck.java`)[cite: 1]
+**Next Session Plan:**
+Move to the next practice module for Java control flow and algorithms.
+
+**Issues Faced:**
+None
