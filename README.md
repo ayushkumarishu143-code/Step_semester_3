@@ -1,10 +1,10 @@
 ## Date: 29-08-2026
 
 **Today's Work:**
-Completed Session 2 Array class problems covering Two Sum, Best Time to Buy and Sell Stock, Contains Duplicate, Merge Two Sorted Arrays, and Rotate Array algorithms.
+Completed Session 2 Array & String Class/Assignment problems (Two Sum, Best Time to Buy and Sell Stock, Contains Duplicate, Merge Two Sorted Arrays, Rotate Array, ATM PIN Validator, Word Reversal Encoder, Product Inventory CSV Parser, Library ISBN Normalizer, and Stop-Word Frequency Report)[cite: 4].
 
 **Next Session Plan:**
-Move to the next practice module for Array assignment problems and algorithms.
+Move to the next practice module for Session 3 problems and algorithms.
 
 **Issues Faced:**
 None
