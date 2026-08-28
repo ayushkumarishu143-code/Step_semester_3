@@ -1,24 +1,24 @@
-package java_control_flow.assigment_problems;
+package java_control_flow.class_problems;
 
 import java.util.Scanner;
 
-public class PalindromeCheck {
+public class ArmstrongCheck {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int number = sc.nextInt();
         int origNumber = number;
-        int reversedNumber = 0;
+        int sum = 0;
 
         while (number > 0) {
             int digit = number % 10;
-            reversedNumber = reversedNumber * 10 + digit;
+            sum += (digit * digit * digit);
             number = number / 10;
         }
 
-        if (origNumber == reversedNumber) {
-            System.out.println(origNumber + " is a Palindrome.");
+        if (sum == origNumber) {
+            System.out.println(origNumber + " is an Armstrong number.");
         } else {
-            System.out.println(origNumber + " is not a Palindrome.");
+            System.out.println(origNumber + " is not an Armstrong number.");
         }
         sc.close();
     }

@@ -1,4 +1,4 @@
-package java_control_flow.assigment_problems;
+package java_control_flow.class_problems;
 
 import java.util.Scanner;
 
