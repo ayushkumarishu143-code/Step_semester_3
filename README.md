@@ -1,3 +1,14 @@
+## Date: 11-09-2026
+
+**Today's Work:**
+Completed Session 3 Arrays logic-building problems (Class Problems: Two Sum, Best Time to Buy and Sell Stock, Contains Duplicate, Merge Two Sorted Arrays, Rotate Array; Assignment Problems: Product of Array Except Self, Maximum Subarray, 3Sum, Subarray Sum Equals K, Find Minimum in Rotated Sorted Array).
+
+**Next Session Plan:**
+Continue with Session 4 Arrays and Methods practice modules.
+
+**Issues Faced:**
+None
+
 ## Date: 05-09-2026
 
 **Today's Work:**
