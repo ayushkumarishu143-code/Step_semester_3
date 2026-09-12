@@ -1,3 +1,14 @@
+## Date: 12-09-2026
+
+**Today's Work:**
+Completed Session 5 Classes and Objects Revision problems (Class Problems: PlacementRecord, MessWallet, Course, IdCard, Student; Assignment Problems: BookInventory, PayrollAccount, EmployeeProfile, HallTicket, CompanyEmployee).
+
+**Next Session Plan:**
+Move to Session 6 coursework and problem sets.
+
+**Issues Faced:**
+None
+
 ## Date: 11-09-2026
 
 **Today's Work:**
